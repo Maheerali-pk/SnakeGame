@@ -1,0 +1,14 @@
+table {
+   border-collapse: collapse;
+}
+table td {
+   height: 18px;
+   width: 18px;
+   box-sizing: border-box;
+}
+td.snake {
+   background: yellow;
+}
+td.food {
+   background: red;
+}
